@@ -132,7 +132,7 @@ export default function Home() {
           <div className="lg:flex hidden max-w-2xl flex-wrap gap-3 justify-end">
             {
               items.map((item) => {
-                return <Link className="font-medium hover:opacity-60" href={`#${item.id}`}>{item.title}</Link>
+                return <Link key={item.id} className="font-medium hover:opacity-60" href={`#${item.id}`}>{item.title}</Link>
               })
             }
           </div>
@@ -155,7 +155,7 @@ export default function Home() {
         <section className="mx-auto container px-7 mt-20">
           <div className="flex flex-col w-full">
             {items.map((item) => {
-              return <Tab id={item.id} index={item.index} type={item.type} title={item.title} file={item.file} />
+              return <Tab id={item.id} index={item.index} type={item.type} title={item.title} file={item.file} key={item.id} />
             })}
           </div>
         </section>
