@@ -115,9 +115,17 @@ function Tab({index, title, type, file, id}) {
         </div>
       </div>
 
-      <Link target="_blank" download href={`/files/${file ?? "none"}`} className="bg-green-500 py-3 px-5 border-black border-solid border text-black rounded-md hover:bg-white">
-        Download nu
-      </Link>
+      {
+        file ? (
+          <Link target="_blank" download href={`/files/${file ?? "none"}`} className="bg-green-500 py-3 px-5 border-black border-solid border text-black rounded-md hover:bg-white">
+          Download nu
+        </Link>
+        ) : (
+          <Link target="_blank" href="" aria-disabled='true' className="bg-black text-white py-3 px-5 border-black border-solid border rounded-md hover:bg-white hover:text-black">
+          Nog niet kunnen doen wegens revalidatietermijn
+        </Link>
+        )
+      }
     </div>
   )
 };
