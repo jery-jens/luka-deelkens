@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2023-05-29T09:46:23Z</time>
+    <bounds maxlat="51.211759960278869" maxlon="3.24289002455771" minlat="51.202229987829924" minlon="3.234369987621903" />
+  </metadata>
+
+  <wpt lat="51.209335327148438" lon="3.242511749267578">
+    <ele>4.8359375</ele>
+    <time>2023-05-29T09:40:53Z</time>
+    <name>1</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:40:53Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.206824779510498" lon="3.240365982055664">
+    <ele>3.94140625</ele>
+    <time>2023-05-29T09:45:25Z</time>
+    <name>10</name>
+    <cmt>Assebroek Bloso (Bushalte)
+8310, Brugge, West-Vlaanderen, BEL</cmt>
+    <desc>Assebroek Bloso (Bushalte)
+8310, Brugge, West-Vlaanderen, BEL</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:City>Brugge</gpxx:City>
+          <gpxx:State>West-Vlaanderen</gpxx:State>
+          <gpxx:Country>BEL</gpxx:Country>
+          <gpxx:PostalCode>8310</gpxx:PostalCode>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:City>Brugge</wptx1:City>
+          <wptx1:State>West-Vlaanderen</wptx1:State>
+          <wptx1:Country>BEL</wptx1:Country>
+          <wptx1:PostalCode>8310</wptx1:PostalCode>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:45:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.211612103506923" lon="3.24147499166429">
+    <ele>5.53515625</ele>
+    <time>2023-05-29T09:42:03Z</time>
+    <name>2</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:42:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.209617629647255" lon="3.240587012842298">
+    <ele>5.98046875</ele>
+    <time>2023-05-29T09:42:58Z</time>
+    <name>3</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:42:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.209335327148438" lon="3.23746919631958">
+    <ele>6.23828125</ele>
+    <time>2023-05-29T09:43:20Z</time>
+    <name>4</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:43:20Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.207355940714478" lon="3.237697351723909">
+    <ele>6.44140625</ele>
+    <time>2023-05-29T09:43:42Z</time>
+    <name>5</name>
+    <cmt>Ganzenstraat 107
+8000, Brugge, West-Vlaanderen, BEL</cmt>
+    <desc>Ganzenstraat 107
+8000, Brugge, West-Vlaanderen, BEL</desc>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>Ganzenstraat 107</gpxx:StreetAddress>
+          <gpxx:City>Brugge</gpxx:City>
+          <gpxx:State>West-Vlaanderen</gpxx:State>
+          <gpxx:Country>BEL</gpxx:Country>
+          <gpxx:PostalCode>8000</gpxx:PostalCode>
+        </gpxx:Address>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Address>
+          <wptx1:StreetAddress>Ganzenstraat 107</wptx1:StreetAddress>
+          <wptx1:City>Brugge</wptx1:City>
+          <wptx1:State>West-Vlaanderen</wptx1:State>
+          <wptx1:Country>BEL</wptx1:Country>
+          <wptx1:PostalCode>8000</wptx1:PostalCode>
+        </wptx1:Address>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:43:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.205365657806396" lon="3.236610889434815">
+    <ele>5.91015625</ele>
+    <time>2023-05-29T09:44:01Z</time>
+    <name>6</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:44:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.203279737383127" lon="3.234904082491994">
+    <ele>6</ele>
+    <time>2023-05-29T09:44:25Z</time>
+    <name>7</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:44:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.202810099348426" lon="3.23704264126718">
+    <ele>5.3828125</ele>
+    <time>2023-05-29T09:44:48Z</time>
+    <name>8</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:44:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="51.20513716712594" lon="3.238893281668425">
+    <ele>3.9765625</ele>
+    <time>2023-05-29T09:45:09Z</time>
+    <name>9</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2023-05-29T09:45:09Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>wandeling-opdracht 001</name>
+    <link href="https://www.strava.com/routes/3098195618799086296" />
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>Red</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="51.20682000182569" lon="3.240470001474023">
+        <ele>4.390000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.2075499817729" lon="3.241190006956458">
+        <ele>4.57</ele>
+      </trkpt>
+      <trkpt lat="51.207709992304444" lon="3.241339959204197">
+        <ele>4.410000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.208164962008595" lon="3.241644976660609">
+        <ele>4.19</ele>
+      </trkpt>
+      <trkpt lat="51.208620015531778" lon="3.241949994117022">
+        <ele>4.32</ele>
+      </trkpt>
+      <trkpt lat="51.209150003269315" lon="3.24244000017643">
+        <ele>4.28</ele>
+      </trkpt>
+      <trkpt lat="51.209319988265634" lon="3.242509989067912">
+        <ele>4.28</ele>
+      </trkpt>
+      <trkpt lat="51.209819968789816" lon="3.24244000017643">
+        <ele>4.29</ele>
+      </trkpt>
+      <trkpt lat="51.210160022601485" lon="3.242470007389784">
+        <ele>4.36</ele>
+      </trkpt>
+      <trkpt lat="51.210269993171096" lon="3.242509989067912">
+        <ele>4.36</ele>
+      </trkpt>
+      <trkpt lat="51.210469985380769" lon="3.242619959637523">
+        <ele>4.430000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.210460010915995" lon="3.242619959637523">
+        <ele>4.430000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.210759999230504" lon="3.24289002455771">
+        <ele>4.55</ele>
+      </trkpt>
+      <trkpt lat="51.21085999533534" lon="3.24257000349462">
+        <ele>4.81</ele>
+      </trkpt>
+      <trkpt lat="51.210929984226823" lon="3.242600010707974">
+        <ele>5.08</ele>
+      </trkpt>
+      <trkpt lat="51.211080020293593" lon="3.242200026288629">
+        <ele>5.4</ele>
+      </trkpt>
+      <trkpt lat="51.211240030825138" lon="3.241940019652247">
+        <ele>5.4</ele>
+      </trkpt>
+      <trkpt lat="51.211400041356683" lon="3.241780009120703">
+        <ele>5.59</ele>
+      </trkpt>
+      <trkpt lat="51.211600033566356" lon="3.241480020806193">
+        <ele>5.920000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.211759960278869" lon="3.241090010851622">
+        <ele>5.94</ele>
+      </trkpt>
+      <trkpt lat="51.211679996922612" lon="3.240449968725443">
+        <ele>6.55</ele>
+      </trkpt>
+      <trkpt lat="51.211619982495904" lon="3.240460027009249">
+        <ele>6.55</ele>
+      </trkpt>
+      <trkpt lat="51.211510011926293" lon="3.240400012582541">
+        <ele>6.620000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.211359975859523" lon="3.240379979833961">
+        <ele>6.66</ele>
+      </trkpt>
+      <trkpt lat="51.210899977013469" lon="3.240560023114085">
+        <ele>6.750000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.210239985957742" lon="3.24067996814847">
+        <ele>6.78</ele>
+      </trkpt>
+      <trkpt lat="51.209779987111688" lon="3.240605033934116">
+        <ele>6.750000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.209319988265634" lon="3.240530015900731">
+        <ele>6.24</ele>
+      </trkpt>
+      <trkpt lat="51.209029974415898" lon="3.240479975938797">
+        <ele>6.19</ele>
+      </trkpt>
+      <trkpt lat="51.208659997209907" lon="3.240330023691058">
+        <ele>6.17</ele>
+      </trkpt>
+      <trkpt lat="51.208950011059642" lon="3.239169968292117">
+        <ele>5.270000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.209059981629252" lon="3.238720027729869">
+        <ele>5.310000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.209089988842607" lon="3.238469995558262">
+        <ele>5.410000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.209340021014214" lon="3.237470034509897">
+        <ele>5.4</ele>
+      </trkpt>
+      <trkpt lat="51.209059981629252" lon="3.23724003508687">
+        <ele>5.53</ele>
+      </trkpt>
+      <trkpt lat="51.208650022745132" lon="3.23676997795701">
+        <ele>5.450000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.208239980041981" lon="3.236300004646182">
+        <ele>5.48</ele>
+      </trkpt>
+      <trkpt lat="51.208069995045662" lon="3.236060030758381">
+        <ele>5.36</ele>
+      </trkpt>
+      <trkpt lat="51.208030013367534" lon="3.236079979687929">
+        <ele>5.32</ele>
+      </trkpt>
+      <trkpt lat="51.207809988409281" lon="3.236509971320629">
+        <ele>5.48</ele>
+      </trkpt>
+      <trkpt lat="51.207640003412962" lon="3.236920014023781">
+        <ele>5.450000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.207259967923164" lon="3.237960040569305">
+        <ele>5.600000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.207059975713491" lon="3.237689975649118">
+        <ele>5.16</ele>
+      </trkpt>
+      <trkpt lat="51.206789994612336" lon="3.237280016764998">
+        <ele>5.13</ele>
+      </trkpt>
+      <trkpt lat="51.206789994612336" lon="3.237269958481193">
+        <ele>5.13</ele>
+      </trkpt>
+      <trkpt lat="51.206380035728216" lon="3.236635029315949">
+        <ele>5.350000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.205969993025064" lon="3.236000016331673">
+        <ele>6.520000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.205549975857139" lon="3.236400000751019">
+        <ele>6.66</ele>
+      </trkpt>
+      <trkpt lat="51.20553002692759" lon="3.236379968002439">
+        <ele>6.74</ele>
+      </trkpt>
+      <trkpt lat="51.205349983647466" lon="3.236609967425466">
+        <ele>6.86</ele>
+      </trkpt>
+      <trkpt lat="51.205279994755983" lon="3.236890006810427">
+        <ele>6.840000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.205289969220757" lon="3.236959995701909">
+        <ele>6.840000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.205340009182692" lon="3.23711003176868">
+        <ele>6.790000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.204680018126965" lon="3.236579960212112">
+        <ele>6.32</ele>
+      </trkpt>
+      <trkpt lat="51.204399978742003" lon="3.236349960789084">
+        <ele>6.12</ele>
+      </trkpt>
+      <trkpt lat="51.20422001928091" lon="3.236269997432828">
+        <ele>5.800000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.204030001536012" lon="3.236109986901283">
+        <ele>5.74</ele>
+      </trkpt>
+      <trkpt lat="51.203739987686276" lon="3.23575995862484">
+        <ele>6.23</ele>
+      </trkpt>
+      <trkpt lat="51.203389959409833" lon="3.235289985314012">
+        <ele>6.7</ele>
+      </trkpt>
+      <trkpt lat="51.203379984945059" lon="3.235210021957755">
+        <ele>6.7</ele>
+      </trkpt>
+      <trkpt lat="51.203419966623187" lon="3.235129974782467">
+        <ele>6.7</ele>
+      </trkpt>
+      <trkpt lat="51.203149985522032" lon="3.234720015898347">
+        <ele>6.94</ele>
+      </trkpt>
+      <trkpt lat="51.203140011057258" lon="3.234560005366802">
+        <ele>6.94</ele>
+      </trkpt>
+      <trkpt lat="51.202959967777133" lon="3.234369987621903">
+        <ele>7.260000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.202889978885651" lon="3.234590012580156">
+        <ele>7.090000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.202829964458942" lon="3.235040036961436">
+        <ele>6.880000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.202740026637912" lon="3.235280010849237">
+        <ele>6.770000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.202650004997849" lon="3.235559966415167">
+        <ele>6.630000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.202320009469986" lon="3.236469989642501">
+        <ele>6.12</ele>
+      </trkpt>
+      <trkpt lat="51.202229987829924" lon="3.236799985170364">
+        <ele>5.960000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.202665008604527" lon="3.23698497377336">
+        <ele>5.750000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.203100029379129" lon="3.237169962376356">
+        <ele>5.220000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.203249981626868" lon="3.237269958481193">
+        <ele>4.98</ele>
+      </trkpt>
+      <trkpt lat="51.203240007162094" lon="3.237259984016419">
+        <ele>5</ele>
+      </trkpt>
+      <trkpt lat="51.203760020434856" lon="3.23762996122241">
+        <ele>4.65</ele>
+      </trkpt>
+      <trkpt lat="51.203899998217821" lon="3.237810004502535">
+        <ele>4.560000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.204160004854202" lon="3.238070011138916">
+        <ele>4.17</ele>
+      </trkpt>
+      <trkpt lat="51.20462997816503" lon="3.238460021093488">
+        <ele>3.810000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.204620003700256" lon="3.238460021093488">
+        <ele>3.810000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.205225009471178" lon="3.238969976082444">
+        <ele>3.75</ele>
+      </trkpt>
+      <trkpt lat="51.2058300152421" lon="3.239480014890432">
+        <ele>3.94</ele>
+      </trkpt>
+      <trkpt lat="51.206284984946251" lon="3.239934984594584">
+        <ele>4.090000000000001</ele>
+      </trkpt>
+      <trkpt lat="51.206740038469434" lon="3.240390038117766">
+        <ele>4.350000000000001</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+</gpx>

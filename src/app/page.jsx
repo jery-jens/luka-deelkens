@@ -13,7 +13,7 @@ const items = [
     type: "Belevingsmanagement",
     id: "beleving",
     index: "02",
-    file: ""
+    file: "beleving.pdf"
   },
   {
     title: "Reflectie Adventure Valley",
@@ -27,14 +27,14 @@ const items = [
     type: "Gezonde natuurbeleving",
     id: "marketeer",
     index: "04",
-    file: ""
+    file: "marketeer-of-nature.mp4"
   },
   {
     title: "Bosbad",
     type: "Gezonde natuurbeleving",
     id: "natuur",
     index: "05",
-    file: ""
+    file: "bosbad.pdf"
   },
   {
     title: "Hébertisme – forest workout",
@@ -55,7 +55,7 @@ const items = [
     type: "Interessante natuurbeleving",
     id: "natuurmens",
     index: "08",
-    file: ""
+    file: "natuurmens.zip"
   },
   {
     title: "Leave no trace on camp",
@@ -90,7 +90,7 @@ const items = [
     type: "Navigatie",
     id: "healthy",
     index: "13",
-    file: ""
+    file: "wandeling.gpx"
   },
   {
     title: "Audiotour",
@@ -115,7 +115,7 @@ function Tab({index, title, type, file, id}) {
         </div>
       </div>
 
-      <Link target="_blank" download href={`/files/${file ?? "none"}`} className="bg-black py-3 px-5 border-black border-solid border text-white rounded-md hover:bg-white hover:text-black">
+      <Link target="_blank" download href={`/files/${file ?? "none"}`} className="bg-green-500 py-3 px-5 border-black border-solid border text-black rounded-md hover:bg-white">
         Download nu
       </Link>
     </div>
@@ -143,7 +143,6 @@ export default function Home() {
         <section className="mx-auto container px-7 pt-20 pb-20 relative">
           <p className="opacity-30 uppercase font-medium tracking-tighter mb-4">Marketeer of Nature</p>
           <h1 className="lg:text-9xl text-5xl font-semibold tracking-tighter mb-6">Luka Deelkens</h1>
-          <p className="opacity-60 max-w-2xl lg:text-2xl">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea, quae. Quasi nam ipsa aliquid repudiandae alias enim accusamus eum possimus incidunt accusantium. Praesentium suscipit, assumenda corporis voluptas minus quam. Non.</p>
         </section>
         
         <section className="mx-auto container px-7">
